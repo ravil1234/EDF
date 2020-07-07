@@ -1,0 +1,47 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#feffff"
+    tools:context="IntroScreen"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_marginTop="40dp"
+        android:id="@+id/login_img"
+        android:layout_width="340dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="130dp"
+        android:src="@drawable/apply_logo">
+    </ImageView>
+    <TextView
+        android:id="@+id/scanqr"
+        android:layout_width="122dp"
+        android:layout_height="48dp"
+        android:layout_margin="22dp"
+        android:paddingTop="14dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:textColor="#000"
+        android:textSize="13sp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_border_black"
+        android:text="Login Me">
+    </TextView>
+    <TextView
+        android:id="@+id/signin"
+        android:layout_width="114dp"
+        android:layout_height="48dp"
+        android:layout_margin="22dp"
+        android:paddingTop="14dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="33dp"
+        android:paddingRight="33dp"
+        android:textColor="#000"
+        android:textSize="13sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/button_border_black"
+        android:text="Sign In">
+    </TextView>
+</RelativeLayout>

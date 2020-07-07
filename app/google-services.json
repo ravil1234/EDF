@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261523520152",
+    "firebase_url": "https://edfapp-81c15.firebaseio.com",
+    "project_id": "edfapp-81c15",
+    "storage_bucket": "edfapp-81c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261523520152:android:059f457466ae358eeeaeed",
+        "android_client_info": {
+          "package_name": "com.example.edf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261523520152-1b8kpj0rhmeeefp032focpvqm66qonh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edf",
+            "certificate_hash": "879a7d1fec2fd98c8f2cb9ee10e4b370173ee1df"
+          }
+        },
+        {
+          "client_id": "261523520152-9tdt6mjchuk6qa1vmb49jcr8ocij400r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFs0u_mwktodfTSrZdEi17BJmGNUiLC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261523520152-9tdt6mjchuk6qa1vmb49jcr8ocij400r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
